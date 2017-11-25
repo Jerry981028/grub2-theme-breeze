@@ -5,8 +5,8 @@
 # Some rights reserved. This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License.
 #
 
-#desktop-image: "background.png"
-desktop-color: "#002b36"
+desktop-image: "background.png"
+#desktop-color: "#002b36"
 
 # colors are taken from the breeze default theme
 title-text: ""
