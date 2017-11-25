@@ -15,7 +15,7 @@ title-text: ""
 message-font: "Terminus 18"
 message-color: "#fcfcfc"
 terminal-font: "Terminus 18"
-terminal-box: "terminal_*.png"
+terminal-box: "terminal_box_*.png"
 
 + boot_menu {
   left = 0%
